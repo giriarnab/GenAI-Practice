@@ -3,8 +3,8 @@ This is to create a local RAG application with Ollama model.
 
 ## Installations
 
-Ollama
-Python
+1. Ollama
+2. Python
 OpenAI
 Chroma
 Visual C++
