@@ -1,8 +1,17 @@
 # RAG Ollama
 This is to create a local RAG application with Ollama model.
 
-## Installations
+-app1.py - It is a simple starter app to connect local Ollama using python.
+-rag_app.py - It is a basic RAG app that demonstrate how a model perform with and without RAG.
+-rag_app_ui.py - It is a Ollama RAG app with UI. 
 
+## Infrasctuctures
+- GenAI Model - Ollama
+- Embeddings - OllamaEmbeddings
+- Vector Database - Chroma
+- User Interface - Gradio
+
+## Installations/Dependencies
 1. Ollama
 2. Python
 3. OpenAI
