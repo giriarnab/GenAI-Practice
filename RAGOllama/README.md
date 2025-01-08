@@ -4,7 +4,7 @@ This is to create a local RAG application with Ollama model.
 - app1.py - It is a simple starter app to connect local Ollama using python.
 - rag_app.py - It is a basic RAG app that demonstrate how a model perform with and without RAG.
 - rag_app_ui.py - It is a Ollama RAG app with UI.
-  - By Default Gradio UI will run in http://127.0.0.1:7860/
+  - By Default UI will run in http://127.0.0.1:7860/
 
 ## Infrasctuctures
 - GenAI Model - Ollama
